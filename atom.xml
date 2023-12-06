@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-12-06T14:10:27.348Z</updated>
+  <updated>2023-12-06T15:12:10.226Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>起点</title>
+    <link href="http://example.com/2023/12/06/%E8%B5%B7%E7%82%B9/"/>
+    <id>http://example.com/2023/12/06/%E8%B5%B7%E7%82%B9/</id>
+    <published>2023-12-06T14:25:53.000Z</published>
+    <updated>2023-12-06T15:12:10.226Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;在经过了无数的拖延以后终于建起了自己的博客。自从出国留学以来，我已经太久没有进行过写作了，倘若不计为了应试而作的文章，那更是不知道要追溯到多久以前了，以至于朋友圈的几行文字都能够让我琢磨半天。而于此同时，我又羡慕着一些仍有意愿积极写作的朋友和网友，也希望能和他们一样记录下当</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
