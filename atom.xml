@@ -1,46 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>Ricardo&#39;s Blog</title>
   
+  <subtitle>施工中...</subtitle>
+  <link href="http://www.wujunchao.com/atom.xml" rel="self"/>
   
-  <link href="http://example.com/atom.xml" rel="self"/>
-  
-  <link href="http://example.com/"/>
-  <updated>2024-06-01T15:24:03.679Z</updated>
-  <id>http://example.com/</id>
+  <link href="http://www.wujunchao.com/"/>
+  <updated>2024-05-30T15:32:15.832Z</updated>
+  <id>http://www.wujunchao.com/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>Junchao Wu</name>
     
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World</title>
-    <link href="http://example.com/2024/06/01/hello-world/"/>
-    <id>http://example.com/2024/06/01/hello-world/</id>
-    <published>2024-06-01T15:24:03.679Z</published>
-    <updated>2024-06-01T15:24:03.679Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
-        
-      
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
     <title>日本九州游记</title>
-    <link href="http://example.com/2024/05/30/%E6%97%A5%E6%9C%AC%E4%B9%9D%E5%B7%9E%E6%B8%B8%E8%AE%B0/"/>
-    <id>http://example.com/2024/05/30/%E6%97%A5%E6%9C%AC%E4%B9%9D%E5%B7%9E%E6%B8%B8%E8%AE%B0/</id>
+    <link href="http://www.wujunchao.com/2024/05/30/%E6%97%A5%E6%9C%AC%E4%B9%9D%E5%B7%9E%E6%B8%B8%E8%AE%B0/"/>
+    <id>http://www.wujunchao.com/2024/05/30/%E6%97%A5%E6%9C%AC%E4%B9%9D%E5%B7%9E%E6%B8%B8%E8%AE%B0/</id>
     <published>2024-05-30T15:31:50.000Z</published>
     <updated>2024-05-30T15:32:15.832Z</updated>
     
@@ -60,8 +39,8 @@
   
   <entry>
     <title>起点</title>
-    <link href="http://example.com/2023/12/06/%E8%B5%B7%E7%82%B9/"/>
-    <id>http://example.com/2023/12/06/%E8%B5%B7%E7%82%B9/</id>
+    <link href="http://www.wujunchao.com/2023/12/06/%E8%B5%B7%E7%82%B9/"/>
+    <id>http://www.wujunchao.com/2023/12/06/%E8%B5%B7%E7%82%B9/</id>
     <published>2023-12-06T14:25:53.000Z</published>
     <updated>2023-12-06T16:18:31.938Z</updated>
     
